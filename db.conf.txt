@@ -1,0 +1,4 @@
+driver=org.sqlite.JDBC
+password=pepito
+user=pepito
+url=jdbc:sqlite:cbr.db
